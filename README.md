@@ -1,1 +1,1 @@
-amb aigua
+amb aigua i sal
