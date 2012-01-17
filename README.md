@@ -1,1 +1,1 @@
-Test content created at 2012-01-17 13:10:36 -0800
+Starter project
